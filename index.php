@@ -8,14 +8,15 @@
         <link rel="stylesheet" href="styles/preload.css">
         <link href="https://fonts.googleapis.com/css?family=Baumans|Open+Sans" rel="stylesheet">
         <link rel="stylesheet" href="styles/animate.css" />
-        <script language="javascript" type="text/javascript" src="scripts/modern.js"></script>
-        <script language="javascript" type="text/javascript" src="scripts/respond.js"></script>
-        <script src="http://code.jquery.com/jquery-1.7.2.min.js"></script>
-        <script language="javascript" type="text/javascript" src="scripts/prefix.js"></script>
+        <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
         <script language="javascript" type="text/javascript" src="scripts/jquery.slides.min.js"></script>
-        <script language="javascript" type="text/javascript" src="scripts/script.js"></script>
         <script language="javascript" type="text/javascript" src="scripts/jquery.inview.min.js"></script>
-
+        <script language="javascript" type="text/javascript" src="scripts/modern.js"></script>
+        <script language="javascript" type="text/javascript" src="scripts/script.js"></script>
+        <script language="javascript" type="text/javascript" src="scripts/respond.js"></script>
+        <script language="javascript" type="text/javascript" src="scripts/prefix.js"></script>
+        <script language="javascript" type="text/javascript" src="scripts/smoothscroll.js"></script>
+        
         <link rel="shortcut icon" href="img/favicon.ico">
     </head>
     <body>
