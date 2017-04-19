@@ -11,7 +11,7 @@ $('document').ready(function () {
             if (ZIEL.length) {
                 var ABSTAND_TOP = ZIEL.offset().top;
                 
-                $('html,body').animate({ scrollTop: ABSTAND_TOP }, 1000, function () {
+                $('html,body').animate({ scrollTop: ABSTAND_TOP }, 1300, function () {
                     window.location = HASH;
                 });
 
