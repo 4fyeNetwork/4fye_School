@@ -176,9 +176,6 @@
         <section id="copyright">
             <h3 class="hidden">Copyright Notiz</h3>
             <div class="wrapper">
-                <div class="column midlist">
-                    <p> Jobs <P/>
-                </div>
                 &copy; Copyright 2017 by <a href="http://www.school.4fye.com">4fye School</a>. All Rights Reserved. 
             </div>
         </section>
