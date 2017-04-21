@@ -16,13 +16,12 @@
         <script language="javascript" type="text/javascript" src="scripts/respond.js"></script>
         <script language="javascript" type="text/javascript" src="scripts/prefix.js"></script>
         <script language="javascript" type="text/javascript" src="scripts/smoothscroll.js"></script>
+        <script language="javascript" type="text/javascript" src="scripts/inview.js"></script>
         
         <link rel="shortcut icon" href="img/favicon.ico">
     </head>
     <body>
         <div class="all">
-
-
 
         <!-- Start !-->
         <section class="start">
@@ -44,7 +43,7 @@
             </header>
             
             <div class="start_title">
-                <h1 class="animated faceInUp" >4fye School</h1>
+                <h1>4fye School</h1>
                 <p>Schule mal einfach<p>
             </div>
             <div class="start_button">
@@ -52,8 +51,44 @@
             </div>
 
         </section>
+
+
+        <!-- Auszeichnungen !-->
+        <section class="boxcontent animated fadeInUp" id="linkan">
+            <h2 class"hidden"></h2>
+            <article>
+                <img class="clock" src="img/clock.png" alt="alt text"/>
+                <h3>Schnelligkeit</h3>
+                <p>
+                    Durch bestimmte komprimierungs Scripts ist es uns möglich das gesamte Netzwerk
+                    inbegriffen 4fye School auch mobil bereitzustellen. Das ermöglicht natürlich
+                    eine sehr große Palette an Möglichkeiten, die wir ausschöpfen wollen. 
+                </p>
+            </article>
+            <article>
+                <img class="handinhand" src="img/betreu.png" alt="alt text"/>
+                <h3>Betreuung</h3>
+                <p>
+                    Durch unser zuverlässiges Team ist es uns möglich auf Fragen sehr schnell zu reagieren.
+                    Dadurch ist die Nutzung der Website natürlich noch besser.
+                </p>
+            </article>
+            <article>
+                <img class="hands" src="img/hands.png" alt="alt text"/>
+                <h3>Zuverlässigkeit</h3>
+                <p>
+                    Das Netzwerk hat sich zur Verwaltung der Server einen sehr guten Anbieter gemietet. 
+                    Dieser garantiert eine Zuverlässigkeit 24 Stunden 7 Tage die Woche. Außerdem macht die Zentrale
+                    Lage der Server natürlich nochmal die Schnellkeit aus.
+                </p>
+            </article>
+            <br class="clear"/>
+        </section>
+
+
+
         <!-- Diashow !-->    
-        <section class="container" id="linkan">
+        <section class="container">
             <h2 class="hidden">Slider</h2>
             <article id="slider_content1">
                 <h3>Plattformübergreifend anwendbar</h3>
@@ -86,38 +121,6 @@
             </div>
         </section>
         
-        
-        <!-- Auszeichnungen !-->
-        <section class="boxcontent">
-            <h2 class"hidden"></h2>
-            <article>
-                <img class="clock" src="img/clock.png" alt="alt text"/>
-                <h3>Schnelligkeit</h3>
-                <p>
-                    Durch bestimmte komprimierungs Scripts ist es uns möglich das gesamte Netzwerk
-                    inbegriffen 4fye School auch mobil bereitzustellen. Das ermöglicht natürlich
-                    eine sehr große Palette an Möglichkeiten, die wir ausschöpfen wollen. 
-                </p>
-            </article>
-            <article>
-                <img class="handinhand" src="img/betreu.png" alt="alt text"/>
-                <h3>Betreuung</h3>
-                <p>
-                    Durch unser zuverlässiges Team ist es uns möglich auf Fragen sehr schnell zu reagieren.
-                    Dadurch ist die Nutzung der Website natürlich noch besser.
-                </p>
-            </article>
-            <article>
-                <img class="hands" src="img/hands.png" alt="alt text"/>
-                <h3>Zuverlässigkeit</h3>
-                <p>
-                    Das Netzwerk hat sich zur Verwaltung der Server einen sehr guten Anbieter gemietet. 
-                    Dieser garantiert eine Zuverlässigkeit 24 Stunden 7 Tage die Woche. Außerdem macht die Zentrale
-                    Lage der Server natürlich nochmal die Schnellkeit aus.
-                </p>
-            </article>
-            <br class="clear"/>
-        </section>
         
         <!-- Feed !-->
         <section id="four_columns">

@@ -1,14 +1,3 @@
-$(".link a").click(function(e) {
-    var sectionID = e.currentTarget.id + "an";
-
-    $("html body").animate({
-        scrollTop: $("#" + sectionID).offset()
-            .top
-
-    }, 1500)
-});
-
-
 $(function() {
 $('#slides').slidesjs({
 height: 235,
